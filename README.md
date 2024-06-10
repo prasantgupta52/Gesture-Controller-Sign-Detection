@@ -5,7 +5,7 @@
 
 ### 2) Install [Anaconda](https://www.anaconda.com/download) as the program needs to be run on anaconda powershell
 
-### 3) clone the github project
+### 3) clone the github project Or Open the source code
 
 ```bash
 git clone https://github.com/prasantgupta52/gesture.git
