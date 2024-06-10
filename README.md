@@ -13,7 +13,7 @@
   ### Procedure
   clone the github project Or Open the source code
   ```bash
-  git clone https://github.com/prasantgupta52/gesture.git
+  git clone https://github.com/prasantgupta52/Gesture-Controller-Sign-Detection.git
   ```
 
   Step 1: open the folder through anaconda powershell
